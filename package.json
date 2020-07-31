@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "dependencies": {
+    "@date-io/moment": "^2.8.0"
+  },
+  "devDependencies": {
+    "@snowpack/app-scripts-react": "^1.4.0",
+    "snowpack": "^2.5.0"
+  }
+}
